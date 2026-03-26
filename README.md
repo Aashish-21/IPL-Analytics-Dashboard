@@ -13,12 +13,13 @@ analyzing IPL data from 2008 to 2024.
 - Best venues by average score
 - Season-wise run trend (2008–2024)
 - Sidebar filter by season
+- Team vs Team analysis
 
 ## 🛠 Tech Stack
 Python · Pandas · Matplotlib · Seaborn · Streamlit
 
 ## 🚀 Run Locally
-git clone https://github.com/YOUR_USERNAME/cricviz-ipl-dashboard.git
+git clone https://github.com/YOUR_USERNAME/ipl-analytics-dashboard.git
 cd IPL-Analytics-Dashboard
 pip install -r requirements.txt
 streamlit run app.py
