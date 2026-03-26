@@ -19,9 +19,9 @@ analyzing IPL data from 2008 to 2024.
 Python · Pandas · Matplotlib · Seaborn · Streamlit
 
 ## 🚀 Run Locally
-git clone https://github.com/YOUR_USERNAME/ipl-analytics-dashboard.git
-cd IPL-Analytics-Dashboard
-pip install -r requirements.txt
+git clone https://github.com/YOUR_USERNAME/ipl-analytics-dashboard.git                                                 
+cd IPL-Analytics-Dashboard                                                             
+pip install -r requirements.txt                                                                 
 streamlit run app.py
 
 ## 📦 Dataset
